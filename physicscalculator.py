@@ -1,5 +1,9 @@
 import math
 
+
+# ROUGHLY TESTED FOR ERRORS AS I WAS MAKING IT BUT MAY NOT BE 100% PERFECT YET
+
+
 # PHYSICS CALC FUNCTIONS
 def calculate_force(mass, acceleration):
     return mass * acceleration
